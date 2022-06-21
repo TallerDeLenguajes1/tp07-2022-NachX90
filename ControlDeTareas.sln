@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlDeTareas", "ControlDeTareas.csproj", "{EDD25E73-C00E-4144-A955-9CB27823BEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD25E73-C00E-4144-A955-9CB27823BEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD25E73-C00E-4144-A955-9CB27823BEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD25E73-C00E-4144-A955-9CB27823BEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD25E73-C00E-4144-A955-9CB27823BEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {743CD1DB-F668-46AA-9876-1965E1D50852}
+	EndGlobalSection
+EndGlobal
